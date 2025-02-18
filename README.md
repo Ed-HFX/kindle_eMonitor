@@ -29,3 +29,8 @@ This is a Python script that starts a webserver, that provides a page, which mir
 None.
 
 The mirroring (connection) between Kindle and computer is not encrypted. Anyone intercepting the traffic would be able to also see the content.
+
+# Update
+
+I added a version that works using tkinter and Pillow to replace the GTK-based screenshot functionality.
+sript - emonitor3.py
