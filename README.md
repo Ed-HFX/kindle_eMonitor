@@ -33,4 +33,5 @@ The mirroring (connection) between Kindle and computer is not encrypted. Anyone 
 # Update
 
 I added a version that works using tkinter and Pillow to replace the GTK-based screenshot functionality.
-sript - emonitor3.py
+
+new script - emonitor3.py
